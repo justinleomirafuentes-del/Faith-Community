@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Leaves / Canopy (Green) -->
+    <path
+        android:fillColor="#5B8C22"
+        android:pathData="M50,10 C40,10 35,20 30,25 C40,25 45,15 50,10 Z
+                          M50,10 C60,10 65,20 70,25 C60,25 55,15 50,10 Z
+                          M30,25 C20,25 15,35 12,40 C22,40 25,30 30,25 Z
+                          M70,25 C80,25 85,35 88,40 C78,40 75,30 70,25 Z
+                          M40,20 C32,20 28,28 25,32 C35,32 38,24 40,20 Z
+                          M60,20 C68,20 72,28 75,32 C65,32 62,24 60,20 Z" />
+
+    <!-- Center Cross (Red) -->
+    <path
+        android:fillColor="#8B1E22"
+        android:pathData="M44,15 H56 V35 H75 V47 H56 V80 H44 V47 H25 V35 H44 Z" />
+
+    <!-- Abstract Figures / Base Support -->
+    <!-- Left Figure (Blue) -->
+    <path
+        android:fillColor="#3B7BC6"
+        android:pathData="M26,55 A4,4 0 1,0 26,47 A4,4 0 1,0 26,55 Z
+                          M20,82 L26,62 L38,58 L32,82 Z" />
+
+    <!-- Right Figure (Red) -->
+    <path
+        android:fillColor="#8B1E22"
+        android:pathData="M74,55 A4,4 0 1,0 74,47 A4,4 0 1,0 74,55 Z
+                          M80,82 L74,62 L62,58 L68,82 Z" />
+
+    <!-- Center-Left Figure (Green) -->
+    <path
+        android:fillColor="#5B8C22"
+        android:pathData="M38,68 A3,3 0 1,0 38,62 A3,3 0 1,0 38,68 Z
+                          M34,88 L38,72 L46,68 L42,88 Z" />
+
+    <!-- Center-Right Figure (Gold) -->
+    <path
+        android:fillColor="#F2B222"
+        android:pathData="M62,68 A3,3 0 1,0 62,62 A3,3 0 1,0 62,68 Z
+                          M66,88 L62,72 L54,68 L58,88 Z" />
+</vector>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746386683700",
+    "project_id": "faithcommunity-2e796",
+    "storage_bucket": "faithcommunity-2e796.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746386683700:android:a7aafe95ce5a64d2a45761",
+        "android_client_info": {
+          "package_name": "com.example.justinsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ4nmvwQxWlyuohuTcjq4qb3zxsKgUlBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
